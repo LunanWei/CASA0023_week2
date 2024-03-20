@@ -167,7 +167,9 @@ height="350px" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 
 
-
+<img src="
+Monitoring_inland_water_bodies_pillars.png"
+height="300px" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 
 
@@ -203,7 +205,9 @@ By providing measurements of water quality and detecting changes, Sentinel-2 can
 
 
 
-
+<img src="
+Sentinel-2_for_agriculture_pillars.jpg"
+height="300px" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 
 
